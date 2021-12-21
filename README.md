@@ -1,11 +1,5 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# Buildspace - Mint your own NFT Project
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+[DAO Site](https://buildspace-dao.web.app/)
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
-
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+This project is built following the Buildspace Build your own DAO guide provided by [Buildspace](https://buildspace.so/).
